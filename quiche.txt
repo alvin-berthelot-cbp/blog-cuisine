@@ -1,10 +1,23 @@
-Titre: La quiche
+Titre : Ma Quiche Lorraine Maison
 
-Ingrédients:
+Ingrédients :
+- 200g de pâte brisée
+- 200g de lardons
+- 30g de beurre
+- 3 oeufs
+- 20cl de crème fraîche
+- 20cl de lait
+- Sel
+- Poivre
 
-- oeufs
-- champignons
-
-Préparation:
-
-Blabla...
+Préparation :
+- Préchauffer le four à 180°
+- Etaler la pâte dans un moule
+- Parsemer de copeaux de beurre
+- Faire rissoler les lardons à la poêle
+- Battre les oeufs, la crème et le lait
+- Ajouter les lardons
+- Assaisonner avec le sel et Poivre
+- Verser sur la pâte
+- Cuire 45 à 50 minutes
+- Sortir du four et déguster
