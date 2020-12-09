@@ -1,10 +1,13 @@
-Titre: Le gateau
+Titre : Le gateau au chocolat
 
-Ingrédients:
+Ingrédients :
+- 6 oeufs
+- 400g de farine
+- 50g de beuure
+- 200g de chocolat noir
 
-- oeufs
-- sucre
-
-Préparation:
-
-Blabla...
+Préparation :
+- Préchauffer le four à 180°
+- Mélanger les oeufs et la farine
+- Faire fondre le chocolat au bain marie
+- Déguster

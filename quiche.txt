@@ -1,6 +1,7 @@
 Titre : Recette de la quiche lorraine rapide
 
 Ingrédients :
+<<<<<<< HEAD
     1 pâte brisée déjà prête de 28 cm
     100 g de lardons fumés (1 sachet)
     100 g de dés de jambon (1 sachet)
@@ -10,16 +11,27 @@ Ingrédients :
     Poivre
     Sel et 1 pincée de muscade moulue
     Fromage frais
+=======
+  -  1 pâte brisée déjà prête de 28 cm
+  -  100 g de lardons fumés venant du boucher (pas en sachet tout de même)
+  -  100 g de dés de jambon venant du boucher (pas en sachet tout de même)
+  -  20 cl de crème liquide (1 pot)
+  -  1 cuillère à soupe de maïzena
+  -  3 oeufs entier
+  -  Poivre
+  -  Sel et 1 pincée de muscade moulue
+  -  Fromage râpé
+>>>>>>> 3e68d5e0092f927b1dbf4f1ba315a2226ef38d4d
 
 
 Préparation :
-    Etaler la pâte avec son papier sulfurisé dans un moule à tarte et la piquer à la fourchette.
-    Casser les oeufs dans un saladier puis verser la crème et bien mélanger.
-    Ajouter la maïzena, poivrer, saler et ajouter une pincée de muscade moulue puis mélanger.
-    Répartir les lardons et les dés de jambon sur la pâte. 
-    Recouvrir avec la préparation (si besoin, ajouter un peu de lait)
-    Parsemer de fromage râpé selon le goût.
-    Cuire environ 30 minutes à 220°C (pour un four à chaleur tournante)
-    Servir avec une salade verte en entrée ou coupée en petits cubes pour l'apéro.
+  -  Etaler la pâte avec son papier sulfurisé dans un moule à tarte et la piquer à la fourchette.
+  -  Casser les oeufs dans un saladier puis verser la crème et bien mélanger.
+  -  Ajouter la maïzena, poivrer, saler et ajouter une pincée de muscade moulue puis mélanger.
+  -  Répartir les lardons et les dés de jambon sur la pâte. 
+  -  Recouvrir avec la préparation (si besoin, ajouter un peu de lait)
+  -  Parsemer de fromage râpé selon le goût.
+  -  Cuire environ 30 minutes à 220°C (pour un four à chaleur tournante)
+  -  Servir avec une salade verte en entrée ou coupée en petits cubes pour l'apéro.
 
 Bon appétit
